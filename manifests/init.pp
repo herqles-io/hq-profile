@@ -1,0 +1,3 @@
+class profile {
+  # Nothing here
+}
