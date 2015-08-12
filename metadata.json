@@ -2,5 +2,6 @@
   "name": "hq-profile",
   "version": "1.0.0",
   "author": "CoverMyMeds - Ryan Belgrave <rbelgrave@covermymeds.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "source": "https://github.com/herqles-io/hq-profile"
 }
